@@ -146,8 +146,8 @@
         </plugins>
 
         <pluginManagement>
-<!--             <plugins>
-                <plugin>
+            <plugins>
+<!--                 <plugin>
                     <groupId>org.easyb</groupId>
                     <artifactId>maven-easyb-plugin</artifactId>
                     <version>${easyb.version}</version>
@@ -177,12 +177,12 @@
     </build>
     <dependencyManagement>
         <dependencies>
-            <dependency>
+<!--             <dependency>
                 <groupId>org.easyb</groupId>
                 <artifactId>easyb-core</artifactId>
                 <version>${easyb.version}</version>
                 <scope>test</scope>
-            </dependency>
+            </dependency> -->
         </dependencies>
     </dependencyManagement>
     <dependencies>
