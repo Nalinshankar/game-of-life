@@ -146,7 +146,7 @@
         </plugins>
 
         <pluginManagement>
-            <plugins>
+<!--             <plugins>
                 <plugin>
                     <groupId>org.easyb</groupId>
                     <artifactId>maven-easyb-plugin</artifactId>
@@ -164,7 +164,7 @@
                         </storyReport>
                     </configuration>
                 </plugin>
-
+ -->
             </plugins>
         </pluginManagement>
         <extensions>
